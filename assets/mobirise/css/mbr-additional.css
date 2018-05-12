@@ -2459,6 +2459,9 @@ body {
   padding-bottom: 30px;
   background-color: #149dcc;
 }
+.cid-qROsWolSuO .media-container-row .mbr-text {
+  color: #7f1933;
+}
 .cid-qRyfK4Sts7 .navbar {
   padding: .5rem 0;
   background: #333333;
@@ -2860,7 +2863,7 @@ body {
   background-color: #cebfaf;
 }
 .cid-qROrPwcxZQ .media-container-row .mbr-text {
-  color: #232323;
+  color: #7f1933;
 }
 .cid-qRyfK4Sts7 .navbar {
   padding: .5rem 0;
@@ -3323,10 +3326,10 @@ body {
   }
 }
 .cid-qRDsmTWqWP {
-  padding-top: 15px;
+  padding-top: 30px;
   padding-bottom: 30px;
   background-color: #2e2e2e;
 }
 .cid-qRDsmTWqWP .media-container-row .mbr-text {
-  color: #232323;
+  color: #7f1933;
 }
