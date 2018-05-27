@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "NGFS Parents Association",
-    "currentPage": "index.html",
+    "currentPage": "Members.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -43,7 +43,7 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Home",
+        "title": "NGFS Parents Association",
         "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
@@ -1546,7 +1546,7 @@
     "JoinUs.html": {
       "settings": {
         "meta_descr": "Site Generator Description",
-        "title": "Join Us",
+        "title": "Join - NGFS Parents Association",
         "order": 2
       },
       "components": [
@@ -2014,7 +2014,7 @@
     "complaint.html": {
       "settings": {
         "meta_descr": "Site Creator Description",
-        "title": "Complaint",
+        "title": "Complaint for NGFS",
         "order": 1
       },
       "components": [
@@ -2482,7 +2482,7 @@
     "Members.html": {
       "settings": {
         "meta_descr": "Web Site Builder Description",
-        "title": "Members",
+        "title": "Members of NGFS Parents Association&nbsp;",
         "order": 3
       },
       "components": [
@@ -2993,7 +2993,7 @@
     "Meetings.html": {
       "settings": {
         "meta_descr": "NGFS Parents Association Meetings",
-        "title": "Meetings",
+        "title": "Meetings NGFS Parents Association ",
         "order": 4
       },
       "components": [
